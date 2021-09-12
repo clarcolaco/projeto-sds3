@@ -1,9 +1,13 @@
+import NavBar from 'assets/componets/NavBar';
 import React from 'react';
 
 function App() {
   return (
-    <div > Oha mundo
-    </div>
+    <> 
+    
+    <NavBar />
+    
+    </>
   );
 }
 
