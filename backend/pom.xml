@@ -12,7 +12,7 @@
 	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsvendas</name>
-	<description>Semana sprin react 4.0</description>
+	<description>Projeto desenvolvido na semana spring react da dev superior</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
